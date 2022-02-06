@@ -1,0 +1,33 @@
+body{
+    background-color:#EDF6E5;
+}
+h1{
+    color:#F38BA0;
+    text-align: center;
+}
+h2{
+    color:#f38BA0;
+    text-align: center;
+}
+p{
+    color: #FFBCBC;
+    font-size: large;
+    text-align: center;
+}
+/* li{
+    color:#FFBCBC;
+    font-size: large;
+    text-align: center;
+} */
+a{
+    color: palevioletred;
+    font-size: large;
+}
+
+.resim{
+    height: 300px;
+    width: 400px;
+    display: block;
+    margin: auto;
+
+}
